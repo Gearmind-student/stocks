@@ -1,3 +1,1 @@
 # Stocks Portfolio Application
-
-hello
